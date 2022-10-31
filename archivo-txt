@@ -6,7 +6,7 @@ git commit -m "cambios"  : para enviar las actualizaciones y comentar que cambio
 
 git push origin nombredelarama  : para subir cambios
 
-git branch nombredelarama : para cambiar de rama
+git checkout nombredelarama : para cambiar de rama
 
 git status :  para ver si tengo cambios por subir
 
