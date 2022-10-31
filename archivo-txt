@@ -1,0 +1,13 @@
+Comandos en Git
+
+git add . : para seleconar los archivos a subir
+
+git commit -m "cambios"  : para enviar las actualizaciones y comentar que cambios se hicieron
+
+git push origin nombredelarama  : para subir cambios
+
+git branch nombredelarama : para cambiar de rama
+
+git status :  para ver si tengo cambios por subir
+
+git pull origin nombredeotrarama : para descargar cambios de otra rama
